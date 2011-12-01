@@ -1,0 +1,3 @@
+This project contains simple examples for ROP and stack smashing.
+
+Although for the stack smashing you will need to turn off any stack canary protection (-fno-stack-protector in gcc) and ASLR.
